@@ -1,3 +1,3 @@
 import "./scss/style.scss";
 
-console.log('Привет от WebPAck');
+console.log('Привет от WebPAck и DevServer');
