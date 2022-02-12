@@ -14,6 +14,7 @@ module.exports = {
     rules: {
         'linebreak-style': 'off',
         'comma-dangle': 'off',
-        'indent': 'off'
+        'indent': 'off',
+        'skipBlankLines': 'on',
     }
 };
